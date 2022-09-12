@@ -52,7 +52,7 @@ public class Sale extends JPanel {
 						x++;
 					}
 				}
-				pdfGenerator.makePdf2(data,total);
+				
 			}
 		});
 		btnPrint.setBounds(244, 472, 118, 46);
