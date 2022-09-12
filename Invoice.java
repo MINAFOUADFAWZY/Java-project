@@ -181,7 +181,7 @@ public class Invoice extends JPanel {
 						x++;
 					}
 				}
-			pdfGenerator.makePdf(data,total,invo);
+			
 			invo++;
 			DB.addSaleToDB(data,comp,n);
 			}
