@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package gstbilling;
 
 
@@ -28,10 +24,7 @@ import javax.swing.JFileChooser;
 import javax.swing.JOptionPane;
 import javax.swing.UIManager;
 
-/**
- *
- * @author Rishabh
- */
+
 public class Login extends javax.swing.JFrame {
 public static int err=0;
    static String dbdata="";
