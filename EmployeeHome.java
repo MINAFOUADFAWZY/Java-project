@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package gstbilling;
 
 import gstbilling.employee.PreviousInvoice;
@@ -11,10 +7,7 @@ import gstbilling.employee.CreateInvoice;
 import gstbilling.employee.Invoice;
 import gstbilling.employee.UpdateInvoice;
 
-/**
- *
- * @author Rishabh
- */
+
 public class EmployeeHome extends javax.swing.JFrame {
    public static String role;
     public static String name;
