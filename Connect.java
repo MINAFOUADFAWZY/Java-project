@@ -5,10 +5,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.Statement;
 
-/**
- *
- * @author Rishabh
- */
+
 public class Connect {
     public static final String URL="jdbc:mysql://localhost:"+DbDatabase.getPort()+"/";
     public static final String USER=DbDatabase.getDbuser();
